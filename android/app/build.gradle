@@ -1,0 +1,110 @@
+plugins {
+    id "com.android.application"
+    id "kotlin-android"
+    // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
+    id "dev.flutter.flutter-gradle-plugin"
+}
+
+def keystoreProperties = new Properties()
+def keystorePropertiesFile = rootProject.file("D:/open-lottery/release-keystore/key.properties")
+if (keystorePropertiesFile.exists()) {
+    keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+}
+
+android {
+    namespace = "com.prize.lottery.prize_lottery_app"
+    compileSdk = flutter.compileSdkVersion
+    ndkVersion = flutter.ndkVersion
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_1_8
+        targetCompatibility = JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_1_8
+    }
+
+    defaultConfig {
+        // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+        applicationId = "com.prize.lottery.prize_lottery_app"
+        // You can update the following values to match your application needs.
+        // For more information, see: https://flutter.dev/to/review-gradle-config.
+        minSdk = flutter.minSdkVersion
+        targetSdk = flutter.targetSdkVersion
+        versionCode = flutter.versionCode
+        versionName = flutter.versionName
+        multiDexEnabled = true
+
+        //应用打包名前缀
+        archivesBaseName = "prize-lottery-v$versionName"
+
+        //openinstall appkey配置
+        manifestPlaceholders = [applicationName   : "android.app.Application",
+                                OPENINSTALL_APPKEY: "ckfbxj",]
+
+        splits {
+            abi {
+                def isRelease = false
+                gradle.startParameter.taskNames.find {
+                    if (it ==~ /assemble.*Release/) {
+                        isRelease = true
+                        return true
+                    }
+                    return false
+                }
+                // 设为true，才能启用abi拆分机制在打包时根据架构生成不同的apk文件
+                enable isRelease
+                //将要包含的abi列表重置为空字符串（与include一起指示使用哪个 abi 而不是忽略哪些abi）
+                reset()
+                // 设置所有要支持的abi类型，构建多个包，每个包只包含一个架构的so
+                include 'armeabi-v7a', 'arm64-v8a'
+                // true：构建支持所有平台abi类型，构建一个包，包含多个架构的so(只要代码中有的都会打进去)
+                // 注：release打包flutter3.22.3版本设置为false，debug测试打包需要设置成true
+                universalApk !isRelease
+            }
+        }
+
+    }
+
+    signingConfigs {
+        debug {
+            v1SigningEnabled true
+            v2SigningEnabled true
+        }
+        release {
+            keyAlias keystoreProperties['keyAlias']
+            keyPassword keystoreProperties['keyPassword']
+            storeFile file(keystoreProperties['storeFile'])
+            storePassword keystoreProperties['storePassword']
+            v1SigningEnabled true
+            v2SigningEnabled true
+        }
+    }
+
+    buildTypes {
+        debug {
+            debuggable true
+            signingConfig signingConfigs.debug
+        }
+
+        release {
+            // TODO: Add your own signing config for the release build.
+            // Signing with the debug keys for now, so `flutter run --release` works.
+            debuggable false
+            signingConfig signingConfigs.release
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+flutter {
+    source = "../.."
+}
+
+dependencies {
+
+    implementation 'com.android.support:multidex:1.0.3'
+}

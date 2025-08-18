@@ -1,0 +1,48 @@
+allprojects {
+    repositories {
+
+        google()
+        mavenCentral()
+
+        maven { url 'https://maven.aliyun.com/repository/google' }
+        maven { url 'https://maven.aliyun.com/repository/jcenter' }
+        maven { url 'https://maven.aliyun.com/nexus/content/groups/public' }
+
+    }
+
+}
+
+rootProject.buildDir = "../build"
+subprojects {
+    afterEvaluate { project ->
+        if (project.hasProperty('android')) {
+            project.android {
+                //flutter 3.24 要求编译sdk 34
+                compileSdk 34
+                if (namespace == null) {
+                    // flutter3.24使用gradle8,需设置namespace
+                    namespace project.group
+                    //设置jdk版本
+                    compileOptions {
+                        sourceCompatibility JavaVersion.VERSION_1_8
+                        targetCompatibility JavaVersion.VERSION_1_8
+                    }
+                    //设置kotlin jdk版本
+                    if (project.android.hasProperty('kotlinOptions')) {
+                        kotlinOptions {
+                            jvmTarget = "1.8"
+                        }
+                    }
+                }
+            }
+        }
+    }
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+}
+subprojects {
+    project.evaluationDependsOn(":app")
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}

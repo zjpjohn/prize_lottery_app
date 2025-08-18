@@ -12,53 +12,53 @@
 
 ### 新版应用截图
 
-| 应用首页                                                                       | 彩种主页                                                                       |
+| 应用首页                                                                      | 彩种主页                                                                      |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| ![应用首页](https://cdn.icaiwa.com/open/app/1.jpg?x-oss-process=image/resize,w_320) | ![彩种主页](https://cdn.icaiwa.com/open/app/2.jpg?x-oss-process=image/resize,w_320) |
+
+| 开奖中心                                                                      | 个人中心                                                                      |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| ![开奖中心](https://cdn.icaiwa.com/open/app/3.jpg?x-oss-process=image/resize,w_320) | ![个人中心](https://cdn.icaiwa.com/open/app/6.jpg?x-oss-process=image/resize,w_320) |
+
+| 专家频道                                                                      | 专家关注                                                                      |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| ![专家频道](https://cdn.icaiwa.com/open/app/4.jpg?x-oss-process=image/resize,w_320) | ![专家关注](https://cdn.icaiwa.com/open/app/5.jpg?x-oss-process=image/resize,w_320) |
+
+| 会员中心                                                                      | 我的账户                                                                      |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| ![会员中心](https://cdn.icaiwa.com/open/app/7.jpg?x-oss-process=image/resize,w_320) | ![我的账户](https://cdn.icaiwa.com/open/app/8.jpg?x-oss-process=image/resize,w_320) |
+
+| 每日签到                                                                      | 缩水过滤                                                                       |
+|---------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| ![每日签到](https://cdn.icaiwa.com/open/app/9.jpg?x-oss-process=image/resize,w_320) | ![缩水过滤](https://cdn.icaiwa.com/open/app/10.jpg?x-oss-process=image/resize,w_320) |
+
+| 预测历史                                                                       | 预测详情                                                                       |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| ![应用首页](https://github.com/zjpjohn/lottery_resource/blob/master/app/1.jpg) | ![彩种主页](https://github.com/zjpjohn/lottery_resource/blob/master/app/2.jpg) |
+| ![预测历史](https://cdn.icaiwa.com/open/app/11.jpg?x-oss-process=image/resize,w_320) | ![预测详情](https://cdn.icaiwa.com/open/app/12.jpg?x-oss-process=image/resize,w_320) |
 
-| 开奖中心                                                                       | 个人中心                                                                       |
+| 出号统计                                                                       | 历史前后                                                                       |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| ![开奖中心](https://github.com/zjpjohn/lottery_resource/blob/master/app/3.jpg) | ![个人中心](https://github.com/zjpjohn/lottery_resource/blob/master/app/6.jpg) |
+| ![出号统计](https://cdn.icaiwa.com/open/app/13.jpg?x-oss-process=image/resize,w_320) | ![历史前后](https://cdn.icaiwa.com/open/app/14.jpg?x-oss-process=image/resize,w_320) |
 
-| 专家频道                                                                       | 专家关注                                                                       |
+| 基础走势                                                                       | 定位走势                                                                       |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| ![专家频道](https://github.com/zjpjohn/lottery_resource/blob/master/app/4.jpg) | ![专家关注](https://github.com/zjpjohn/lottery_resource/blob/master/app/5.jpg) |
+| ![基础走势](https://cdn.icaiwa.com/open/app/15.jpg?x-oss-process=image/resize,w_320) | ![定位走势](https://cdn.icaiwa.com/open/app/16.jpg?x-oss-process=image/resize,w_320) |
 
-| 会员中心                                                                       | 我的账户                                                                       |
+| 智能指数                                                                       | 应用助手                                                                       |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| ![会员中心](https://github.com/zjpjohn/lottery_resource/blob/master/app/7.jpg) | ![我的账户](https://github.com/zjpjohn/lottery_resource/blob/master/app/8.jpg) |
+| ![智能指数](https://cdn.icaiwa.com/open/app/17.jpg?x-oss-process=image/resize,w_320) | ![应用助手](https://cdn.icaiwa.com/open/app/18.jpg?x-oss-process=image/resize,w_320) |
 
-| 每日签到                                                                       | 缩水过滤                                                                        |
-|----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| ![每日签到](https://github.com/zjpjohn/lottery_resource/blob/master/app/9.jpg) | ![缩水过滤](https://github.com/zjpjohn/lottery_resource/blob/master/app/10.jpg) |
+| 会员订单                                                                       | 专家搜索                                                                       |
+|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| ![会员订单](https://cdn.icaiwa.com/open/app/19.jpg?x-oss-process=image/resize,w_320) | ![专家搜索](https://cdn.icaiwa.com/open/app/20.jpg?x-oss-process=image/resize,w_320) |
 
-| 预测历史                                                                        | 预测详情                                                                        |
-|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| ![预测历史](https://github.com/zjpjohn/lottery_resource/blob/master/app/11.jpg) | ![预测详情](https://github.com/zjpjohn/lottery_resource/blob/master/app/12.jpg) |
+| 蜂巢查表                                                                       | 万十专区                                                                       |
+|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| ![蜂巢查表](https://cdn.icaiwa.com/open/app/21.jpg?x-oss-process=image/resize,w_320) | ![万十专区](https://cdn.icaiwa.com/open/app/22.jpg?x-oss-process=image/resize,w_320) |
 
-| 出号统计                                                                        | 历史前后                                                                        |
-|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| ![出号统计](https://github.com/zjpjohn/lottery_resource/blob/master/app/13.jpg) | ![历史前后](https://github.com/zjpjohn/lottery_resource/blob/master/app/14.jpg) |
-
-| 基础走势                                                                        | 定位走势                                                                        |
-|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| ![基础走势](https://github.com/zjpjohn/lottery_resource/blob/master/app/15.jpg) | ![定位走势](https://github.com/zjpjohn/lottery_resource/blob/master/app/16.jpg) |
-
-| 智能指数                                                                        | 应用助手                                                                        |
-|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| ![智能指数](https://github.com/zjpjohn/lottery_resource/blob/master/app/17.jpg) | ![应用助手](https://github.com/zjpjohn/lottery_resource/blob/master/app/18.jpg) |
-
-| 会员订单                                                                        | 专家搜索                                                                        |
-|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| ![会员订单](https://github.com/zjpjohn/lottery_resource/blob/master/app/19.jpg) | ![专家搜索](https://github.com/zjpjohn/lottery_resource/blob/master/app/20.jpg) |
-
-| 蜂巢查表                                                                        | 万十专区                                                                        |
-|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| ![蜂巢查表](https://github.com/zjpjohn/lottery_resource/blob/master/app/21.jpg) | ![万十专区](https://github.com/zjpjohn/lottery_resource/blob/master/app/22.jpg) |
-
-| 综合排名                                                                         | 分类排名                                                                         |
-|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| ![综合排名](https://github.com/zjpjohn/lottery_resource/blob/master/app/23.jpg) | ![分类排名](https://github.com/zjpjohn/lottery_resource/blob/master/app/24.jpg) |
+| 综合排名                                                                             | 分类排名                                                                        |
+|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| ![综合排名](https://cdn.icaiwa.com/open/app/23.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/24.jpg?x-oss-process=image/resize,w_320) |
 
 ### 新版app体验下载二维码
 #### 手机浏览器扫一扫下载app体验最新版本功能

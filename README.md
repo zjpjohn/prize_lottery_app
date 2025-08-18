@@ -1,8 +1,8 @@
 # prize_lottery_app
 
-新版彩票app采用flutter3.27,getx进行状态管理进行重构，并在原基础上添加更多的功能-快乐8，排列五，多维度走势图表，开奖提醒，开奖直播及流行的新技术等等。
+新版彩票app基于flutter3.27开发,使用getx进行状态管理，并进行全面重构，在原基础上添加更多的功能-快乐8，排列五，多维度走势图表，开奖提醒，开奖直播及流行的新技术等等。
 
-本app有许多特色功能，欢迎下载源码学习，如有私有化部署需求或指导请联系(添加微信-zjpcomeon 备注-lottery-app部署)
+本app有许多特色功能，欢迎下载源码学习交流，如有私有化部署需求或指导请联系(添加微信-zjpcomeon 备注-lottery-app部署)
 
 服务端项目仓库:https://github.com/zjpjohn/prize-lottery-backend
 

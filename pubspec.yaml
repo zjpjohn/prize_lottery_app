@@ -126,7 +126,7 @@ dependencies:
   # calendar event
   #  device_calendar: ^4.3.1
   device_calendar:
-    path: D:/cloud-lottery/device_calendar
+    path: D:/flutter/device_calendar
   # custom liquid_swipe
   liquid_swipe:
     path: D:/flutter/liquid_swipe_flutter

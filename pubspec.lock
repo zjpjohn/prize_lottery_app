@@ -260,7 +260,7 @@ packages:
   device_calendar:
     dependency: "direct main"
     description:
-      path: "D:\\cloud-lottery\\device_calendar"
+      path: "D:\\flutter\\device_calendar"
       relative: false
     source: path
     version: "4.3.1"

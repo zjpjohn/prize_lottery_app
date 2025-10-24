@@ -8,7 +8,11 @@ device_calendar:https://github.com/zjpjohn/device_calendar
 
 liquid_swipe_flutter:https://github.com/zjpjohn/liquid_swipe_flutter
 
-本app有许多特色功能，欢迎star、fork源码学习交流，如有私有化部署需求或指导请联系(添加微信-zjpcomeon 备注-lottery-app部署)
+本app有许多特色功能，欢迎star、fork源码学习交流，如有私有化部署或者二次开发需求请联系(添加微信-zjpcomeon
+备注-lottery-app部署)
+
+本人拥有多年开发经验技术能力过硬，手头形成一整套可靠稳定且高效的快速开发框架，有需要外包或者有开发需求的，可以联系我(
+我的微信-zjpcomeon)
 
 服务端项目仓库:https://github.com/zjpjohn/prize-lottery-backend
 

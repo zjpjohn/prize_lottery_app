@@ -61,16 +61,13 @@ Telegram @jpchou)
 |----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | ![会员订单](https://cdn.icaiwa.com/open/app/19.jpg?x-oss-process=image/resize,w_320) | ![专家搜索](https://cdn.icaiwa.com/open/app/20.jpg?x-oss-process=image/resize,w_320) |
 
-| 蜂巢查表                                                                             | 万十专区                                                                             |
-|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| ![蜂巢查表](https://cdn.icaiwa.com/open/app/21.jpg?x-oss-process=image/resize,w_320) | ![万十专区](https://cdn.icaiwa.com/open/app/22.jpg?x-oss-process=image/resize,w_320) |
-
 | 综合排名                                                                             | 分类排名                                                                             |
 |----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | ![综合排名](https://cdn.icaiwa.com/open/app/23.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/24.jpg?x-oss-process=image/resize,w_320) |
 
-### 新版app体验下载二维码
-
-#### 手机浏览器扫一扫下载app体验最新版本功能
-
-![体验二维码](https://cdn.icaiwa.com/git/lottery/14.jpg?x-oss-process=image/resize,w_250)
+| 更多截图赏析 |                                                                                  |
+|------------------------------------|----------------------------------------------------------------------------------|
+| ![综合排名](https://cdn.icaiwa.com/open/app/30.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/31.jpg?x-oss-process=image/resize,w_320) |
+| ![综合排名](https://cdn.icaiwa.com/open/app/32.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/33.jpg?x-oss-process=image/resize,w_320) |
+| ![综合排名](https://cdn.icaiwa.com/open/app/34.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/35.jpg?x-oss-process=image/resize,w_320) |
+| ![综合排名](https://cdn.icaiwa.com/open/app/36.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/37.jpg?x-oss-process=image/resize,w_320) |

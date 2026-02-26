@@ -8,10 +8,7 @@ device_calendar:https://github.com/zjpjohn/device_calendar
 
 liquid_swipe_flutter:https://github.com/zjpjohn/liquid_swipe_flutter
 
-本app有许多特色功能，欢迎star、fork源码学习交流，如有私有化部署或者二次开发需求请联系(Telegram @jpchou lottery-app部署)
-
-本人拥有多年开发经验技术能力过硬，手头形成一整套可靠稳定且高效的快速开发框架，如有需要外包或者有开发需求的，可以联系我(
-Telegram @jpchou)
+本app有许多特色功能，欢迎star、fork源码学习交流，更多想法需求请联系(Telegram @jpchou )
 
 服务端项目仓库:https://github.com/zjpjohn/prize-lottery-backend
 
@@ -19,7 +16,13 @@ Telegram @jpchou)
 
 旧版本app仓库地址: https://github.com/zjpjohn/lottery-app
 
-### 新版应用截图
+
+| 更多截图赏析 | 更多截图赏析                                                                           |
+|------------------------------------|----------------------------------------------------------------------------------|
+| ![综合排名](https://cdn.icaiwa.com/open/app/30.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/31.jpg?x-oss-process=image/resize,w_320) |
+| ![综合排名](https://cdn.icaiwa.com/open/app/32.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/33.jpg?x-oss-process=image/resize,w_320) |
+| ![综合排名](https://cdn.icaiwa.com/open/app/34.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/35.jpg?x-oss-process=image/resize,w_320) |
+| ![综合排名](https://cdn.icaiwa.com/open/app/36.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/37.jpg?x-oss-process=image/resize,w_320) |
 
 | 应用首页                                                                            | 彩种主页                                                                            |
 |---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
@@ -65,9 +68,3 @@ Telegram @jpchou)
 |----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | ![综合排名](https://cdn.icaiwa.com/open/app/23.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/24.jpg?x-oss-process=image/resize,w_320) |
 
-| 更多截图赏析 | 更多截图赏析                                                                           |
-|------------------------------------|----------------------------------------------------------------------------------|
-| ![综合排名](https://cdn.icaiwa.com/open/app/30.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/31.jpg?x-oss-process=image/resize,w_320) |
-| ![综合排名](https://cdn.icaiwa.com/open/app/32.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/33.jpg?x-oss-process=image/resize,w_320) |
-| ![综合排名](https://cdn.icaiwa.com/open/app/34.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/35.jpg?x-oss-process=image/resize,w_320) |
-| ![综合排名](https://cdn.icaiwa.com/open/app/36.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/37.jpg?x-oss-process=image/resize,w_320) |

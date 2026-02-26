@@ -65,7 +65,7 @@ Telegram @jpchou)
 |----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | ![综合排名](https://cdn.icaiwa.com/open/app/23.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/24.jpg?x-oss-process=image/resize,w_320) |
 
-| 更多截图赏析 |                                                                                  |
+| 更多截图赏析 | 更多截图赏析                                                                           |
 |------------------------------------|----------------------------------------------------------------------------------|
 | ![综合排名](https://cdn.icaiwa.com/open/app/30.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/31.jpg?x-oss-process=image/resize,w_320) |
 | ![综合排名](https://cdn.icaiwa.com/open/app/32.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/33.jpg?x-oss-process=image/resize,w_320) |

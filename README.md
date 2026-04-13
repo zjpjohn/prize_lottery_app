@@ -21,6 +21,10 @@ liquid_swipe_flutter:https://github.com/zjpjohn/liquid_swipe_flutter
 |---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | ![应用首页](https://cdn.icaiwa.com/open/app/1.jpg?x-oss-process=image/resize,w_320) | ![彩种主页](https://cdn.icaiwa.com/open/app/2.jpg?x-oss-process=image/resize,w_320) |
 
+| 开奖中心                                                                            | 个人中心                                                                            |
+|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| ![开奖中心](https://cdn.icaiwa.com/open/app/3.jpg?x-oss-process=image/resize,w_320) | ![个人中心](https://cdn.icaiwa.com/open/app/6.jpg?x-oss-process=image/resize,w_320) |
+
 | 更多截图                                                                           | 更多截图                                                                          |
 |--------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
 | ![综合排名](https://cdn.icaiwa.com/open/app/30.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/31.jpg?x-oss-process=image/resize,w_320) |
@@ -30,10 +34,6 @@ liquid_swipe_flutter:https://github.com/zjpjohn/liquid_swipe_flutter
 | ![综合排名](https://cdn.icaiwa.com/open/app/38.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/39.jpg?x-oss-process=image/resize,w_320) |
 | ![综合排名](https://cdn.icaiwa.com/open/app/40.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/41.jpg?x-oss-process=image/resize,w_320) |
 | ![综合排名](https://cdn.icaiwa.com/open/app/42.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/43.jpg?x-oss-process=image/resize,w_320) |
-
-| 开奖中心                                                                            | 个人中心                                                                            |
-|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| ![开奖中心](https://cdn.icaiwa.com/open/app/3.jpg?x-oss-process=image/resize,w_320) | ![个人中心](https://cdn.icaiwa.com/open/app/6.jpg?x-oss-process=image/resize,w_320) |
 
 | 专家频道                                                                            | 专家关注                                                                            |
 |---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|

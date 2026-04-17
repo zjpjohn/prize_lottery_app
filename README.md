@@ -8,7 +8,7 @@ device_calendar:https://github.com/zjpjohn/device_calendar
 
 liquid_swipe_flutter:https://github.com/zjpjohn/liquid_swipe_flutter
 
-本app有许多特色功能，欢迎star、fork源码学习交流，更多想法需求请联系(Telegram @jpchou )
+本app有许多特色功能，欢迎star、fork源码学习交流，更多想法需求请联系(Telegram @jpchou 订阅频道https://t.me/prize_lottery_app 一起交流探讨 )
 
 服务端项目仓库:https://github.com/zjpjohn/prize-lottery-backend
 
